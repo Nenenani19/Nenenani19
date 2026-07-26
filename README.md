@@ -1,16 +1,63 @@
-## Hi there 👋
+# Bhaskara Suresh Swamy
 
-<!--
-**Nenenani19/Nenenani19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science (Cybersecurity) | Mohan Babu University (2024–2028)  
+Aspiring Software Engineer focused on building strong foundations in programming and problem solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile Summary
+
+Motivated undergraduate student currently developing proficiency in Java and Data Structures & Algorithms. Actively working on strengthening problem-solving skills and building practical projects to transition into software development roles.
+
+---
+
+## Technical Skills
+
+**Programming Languages:**  
+Java (Primary), Python (Basic), C++
+
+**Core Concepts:**  
+Data Structures & Algorithms (Learning Phase)  
+Object-Oriented Programming  
+
+**Web Technologies:**  
+HTML, CSS (Basic)
+
+**Tools & Technologies:**  
+Git, GitHub, VS Code  
+MySQL (Fundamentals)
+
+---
+
+## Current Work
+
+- Focused on mastering Java programming and DSA fundamentals  
+- Practicing coding problems regularly to improve logical thinking  
+- Preparing to build and deploy beginner-level projects  
+
+---
+
+## Planned Projects
+
+- Student Collaboration Platform (CampusConnect)  
+- Donation Management System (WeDonate)  
+- Java-Based Problem Solving Repository  
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nenenani19&show_icons=true)
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/anusuri-bhaskara-suresh-swamy-9a85232a3/  
+GitHub: https://github.com/Nenenani19  
+
+---
+
+## Objective
+
+To secure an opportunity in software development where I can apply my foundational knowledge, continuously learn, and contribute to building efficient and scalable solutions.
