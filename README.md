@@ -1,4 +1,4 @@
-# Bhaskara Suresh Swamy
+# Anusuri Bhaskara Suresh Swamy
 
 B.Tech Computer Science (Cybersecurity) | Mohan Babu University (2024–2028)  
 Aspiring Software Engineer focused on building strong foundations in programming and problem solving.
@@ -41,7 +41,8 @@ MySQL (Fundamentals)
 
 - Student Collaboration Platform (CampusConnect)  
 - Donation Management System (WeDonate)  
-- Java-Based Problem Solving Repository  
+- Java-Based Problem Solving Repository
+- personal portfolio  
 
 ---
 
@@ -53,8 +54,9 @@ MySQL (Fundamentals)
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/anusuri-bhaskara-suresh-swamy-9a85232a3/  
-GitHub: https://github.com/Nenenani19  
+LinkedIn:  https://www.linkedin.com/in/anusuri-bhaskara-suresh-swamy-9a85232a3
+GitHub:    https://github.com/Nenenani19  
+portfolio: https://bhaskaraa.netlify.app
 
 ---
 
